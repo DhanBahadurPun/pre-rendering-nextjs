@@ -1,0 +1,29 @@
+{
+  "books": [
+    {
+      "ISBN": 9789937071628,
+      "name": "The Leader In YOU",
+      "author": "Dale Carnege"
+    },
+    {
+      "ISBN": 9789386037763,
+      "name": "Think and Grow Rich",
+      "author": "Napoleon Hill"
+    },
+    {
+      "ISBN": 9781612680194,
+      "name": "Rich Dad Poor Dad",
+      "author": "Robert T. Kiyosaki"
+    },
+    {
+      "ISBN": 9780753555194,
+      "name": "Zeto to One",
+      "author": "Peter Thiel"
+    },
+    {
+      "ISBN": 9789937001076,
+      "name": "The Power of Positive Thinking",
+      "author": "Norman Vincent Peale"
+    }
+  ]
+}
